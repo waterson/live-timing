@@ -1,0 +1,9 @@
+These are some simple tools that you can use to grab and analyze ski
+race results from live-timing.com.
+
+  scrape-race -r <race-id>
+
+    Retreives that race results for the race with the specified race
+    ID and outputs the data as a comma-separated value.
+
+
